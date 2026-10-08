@@ -6,7 +6,7 @@ Landing page for **Sweldo**, invoices that send themselves. Built for Filipino f
 - `index.html`: the whole landing page (no build step needed)
 
 ## Before going live
-- Create a free form at https://formspree.io and replace `YOUR_FORM_ID` in `index.html` (it appears twice) so waitlist signups are saved.
+- Waitlist signups go to Formspree form `mgaoaqeb` (https://formspree.io/f/mgaoaqeb).
 - Replace the placeholders: `[Client name]`, `₱[converted amount]`.
 
 ## Hosting
